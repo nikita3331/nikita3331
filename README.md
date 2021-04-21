@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikita3331)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikita3331&hide=stars&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Full stack web and mobile developer. 
 
